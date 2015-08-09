@@ -1,5 +1,4 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+可燃物( 燃えるもの ),,,img/moyasu02.svg,#ea3b13
+ビン・カン・不燃物( 燃えないもの ),,,img/moyasanai02.svg,#733b96
+紙類( 新聞紙・チラシ、雑誌、書籍、段ボール ),,,img/bin02.svg,#2dc7aa
